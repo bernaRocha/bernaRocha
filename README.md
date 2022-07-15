@@ -1,4 +1,4 @@
-### Hi there I am Bernardo Rocha 👋
+### Hi there I'm Bernardo Rocha 👋
 
 <!--
 **bernaRocha/bernaRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
