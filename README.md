@@ -1,4 +1,4 @@
-### Hi there I'm Bernardo, a analysis and systems development. 👋
+### Hi there I'm Bernardo, a analysis and systems development student. 👋
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernaRocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
