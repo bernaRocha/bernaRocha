@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaRocha&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
-- 🌱 I’m currently learning C language, Python and Ruby on Rails  
+- 🌱 I’m currently learning C language, Python 
   
 
 - ⚡ My hobbies: sci-fi books reading and listening to music  
