@@ -1,11 +1,11 @@
-### Hi there I'm Bernardo, an analysis and systems development student. 👋
+### Hi there I'm Bernardo, a data analyst student. 👋
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernaRocha&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernaRocha&layout=compact&langs_count=7&theme=radical"/>
 </div>](url) -->
 </div>
- 🌱 I’m currently learning Python, SQL, Julia, statistics and data analysis.
+ 🌱 I’m currently learning Python, SQL, Julia and statistics.
   
 
  ⚡ My hobbies: sci-fi books reading and listening to music.  
