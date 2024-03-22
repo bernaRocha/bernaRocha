@@ -2,7 +2,8 @@
 
 Olá, me chamo Bernardo, tenho conhecimento nas linguagens Python para análise e ciência de dados.
 
-Cursando graduação em Análise e desenvolvimento de sistemas na UNIP.
+Cursando estatística na ENCE | IBGE.
+
 ## Conhecimentos em:
 - Python
 - SQL
