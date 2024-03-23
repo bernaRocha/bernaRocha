@@ -18,7 +18,7 @@ Cursando estatística na ENCE | IBGE.
 ## Contato
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bernardo--rocha/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rochabernardo/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrochabernardo@gmail.com)
 
 ## Idiomas
