@@ -2,7 +2,7 @@
 
 Olá, me chamo Bernardo, tenho conhecimento nas linguagens Python para análise e ciência de dados.
 
-Cursando estatística na ENCE | IBGE.
+Cursando estatística na ENCE | IBGE. (2024 - )
 
 ## Conhecimentos em:
 - Python
