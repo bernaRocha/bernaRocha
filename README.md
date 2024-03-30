@@ -5,14 +5,12 @@ Olá, me chamo Bernardo, tenho conhecimento nas linguagens Python para análise 
 Cursando estatística na ENCE | IBGE. (2024 - )
 
 ## Conhecimentos em:
-- Python
+- Python, R, Julia
 - SQL
 - Power BI
 - Pandas, Seaborn, Numpy
 - Estatística
 - Git | Github
-- Julia 
-- R
 
 
 ## Contato
