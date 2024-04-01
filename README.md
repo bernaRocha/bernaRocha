@@ -1,4 +1,4 @@
-# Bernardo - Análise | Ciência de dados
+# Bernardo - Estatística | Análise | Ciência de dados
 
 Olá, me chamo Bernardo, tenho conhecimento nas linguagens Python para análise e ciência de dados.
 
