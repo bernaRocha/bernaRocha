@@ -1,6 +1,6 @@
 # Bernardo - Estatística | Análise | Ciência de dados
 
-Olá, me chamo Bernardo, tenho conhecimento nas linguagens Python para análise e ciência de dados.
+Olá, me chamo Bernardo, tenho conhecimento na linguagem Python para análise e ciência de dados.
 
 Cursando estatística na [ENCE](https://ence.ibge.gov.br/) | IBGE. (2024 - )
 
