@@ -1,15 +1,14 @@
-# Bernardo - Estatística | Análise | Ciência de dados
-
-Olá, me chamo Bernardo, tenho conhecimento em Python para análise e ciência de dados.
-
+# Olá me chamo Bernardo, estudante de estatística.
 Cursando estatística na [ENCE](https://ence.ibge.gov.br/) | IBGE. (2024 - )
+- CH: 你好，我叫 Bernardo，我是一名统计学专业的学生。我的大学 [ENCE](https://ence.ibge.gov.br/) | IBGE. (2024 - ) <br>
 
-## Conhecimentos em:
+
+## Conhecimentos em: | 我可以用:
 - Python, R, Julia
 - SQL
 - Power BI
 - Pandas, Numpy, Seaborn, Plotly 
-- Estatística
+- Estatística | 统计
 - Git | Github
 
 
@@ -21,10 +20,10 @@ Cursando estatística na [ENCE](https://ence.ibge.gov.br/) | IBGE. (2024 - )
 
 ## Idiomas
 
-- Português - Nativo
-- Inglês - Avançado
-- Mandarim - Básico
-- Alemão - Intermediário
+- Português - Nativo | 葡萄牙语 - 母语
+- Inglês - Avançado | 英语 - 高级
+- Mandarim - Básico | 普通话 - 基础
+
 
 
 <!--
