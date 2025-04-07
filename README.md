@@ -8,7 +8,7 @@ Cursando estatística na [ENCE](https://ence.ibge.gov.br/) | IBGE. (2024 - )
 - SQL
 - Power BI
 - Pandas, Numpy, Seaborn, Plotly 
-- Estatística | 统计
+- Estatística | 统计学
 - Git | Github
 
 
